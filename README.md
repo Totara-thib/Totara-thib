@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Lead Frontend Developer (5+ years)</b> &nbsp;|&nbsp; <b>CI/CD Security Researcher</b><br/>
-  Building <a href="https://getplumber.io">Plumber</a> from Montpellier, France 🇫🇷
+  Building <a href="https://getplumber.io">Plumber</a> from San Francisco, California
 </p>
 
 <p align="center">
