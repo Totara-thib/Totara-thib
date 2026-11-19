@@ -13,6 +13,12 @@
   <a href="https://www.linkedin.com/in/thibaud-van-den-berghe-34000"><img src="https://img.shields.io/badge/LinkedIn-Thibaud-4a90d9?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=2b2d42" alt="LinkedIn"></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/brunobritodev/awesome-github-stats">
+    <img width="450px" alt="Thibaud's GitHub stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/Totara-thib?theme=dark&background=2b2d42&border=2b2d42&title=4a90d9&ring=4a90d9&icon=4a90d9" />
+  </a>
+</p>
+
 ---
 
 ## 🔧 What I'm building
